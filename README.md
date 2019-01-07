@@ -1,5 +1,5 @@
 # Detect iOS jailbreak
-Library to help detecting a possible iOS jailbreak
+Code to help detect a possible iOS jailbreak
 ## Usage
 
 Add the source to your project
