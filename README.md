@@ -2,7 +2,7 @@
 Code to help detect a possible iOS jailbreak
 ## Usage
 
-Add the source to your project
+Copy the source into your project
 
 ```
 print("The device \(isJailbroken ? "appears" : "does not appear") to be jailbroken")
